@@ -21,8 +21,8 @@ The dataset contains the following columns:
 - `product_type`: Type of product (e.g., Coffee, Tea, Pastry)
 - `product_detail`: Detailed description of the product
 - `size`: Size of the product (e.g., Small, Medium, Large)
-Month: Numeric value representing the month of the transaction
-Month Name: Name of the month
-Day of Week: Numeric value representing the day of the week
-Day Name: Name of the day (e.g., Monday, Tuesday)
-Hour: Hour of the transaction
+- `Month`: Numeric value representing the month of the transaction
+- `Month Name`: Name of the month
+- `Day of Week`: Numeric value representing the day of the week
+- `Day Name`: Name of the day (e.g., Monday, Tuesday)
+- `Hour`: Hour of the transaction
